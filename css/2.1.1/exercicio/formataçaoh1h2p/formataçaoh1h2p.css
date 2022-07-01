@@ -1,0 +1,16 @@
+h1 {
+    font-family: verdana;
+    inset-inline: 0px;
+    color: green;
+    text-decoration: underline;
+}
+
+h3 {
+    font-family: italic, comic sans-serif;
+    color: purple;
+}
+
+p {
+    font-family: arial;
+    color: black;
+}
